@@ -1,0 +1,8 @@
+# 문제 만들기
+
+* inventory collection에서 {"status":"A"} 를 {"status":"B"}로 바꾸시오
+* inventory collection "sketch pad"의 "size"를 h: 30.23, w: 40.23으로 바꾸시오
+* inventory collection에서 mat를 삭제하시오
+* inventory collection "size"가 h: 15, w: 20 보다 작으면 0으로 바꾸시오
+* inventory collection  {"uom":"in"}를 {"uom":"mm"}로 바꾸시오
+
